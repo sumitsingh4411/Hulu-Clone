@@ -1,4 +1,4 @@
-# Netflix-clone
+# Hulu-clone
 ### [Live Site](https://huluclone1.herokuapp.com/)
 
 ![hulu](https://i.ibb.co/zhMVhBv/Capture15.png)
