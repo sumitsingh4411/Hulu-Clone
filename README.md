@@ -1,3 +1,17 @@
+# Netflix-clone
+### [Live Site](https://huluclone1.herokuapp.com/)
+
+![hulu](https://i.ibb.co/zhMVhBv/Capture15.png)
+
+
+## Introduction
+This is a code repository for the corresponding hulu . 
+
+In this repository, we're going to build a fully functional hulu application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept , API fetching with axios and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
